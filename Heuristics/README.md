@@ -4,5 +4,5 @@ Here you may find the algorithms that I developed to solve the Set Covering Prob
 
 # Contents
 
-- Genetic Algorithms:
-- Variable Neighborhood Algorithms:
+- Genetic_Algorithms:
+- Variable_Neighborhood_Algorithms:
